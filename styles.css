@@ -1,0 +1,45 @@
+h1 {
+    color :rgb(255, 77, 0);}
+h2 {
+    color :blueviolet;}
+.first {
+    color: aqua;}
+body {
+    background-image: url(BG.JPG);
+    background-size: cover;
+    background-attachment: fixed;  
+
+    }
+
+table {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #ffffff;
+      }
+
+.image {
+    width: 144px;
+  height: 180px;
+  background: rgb(176, 223, 243);
+  transition: width 0.5s, height 0.5s;
+
+    }
+.image:hover {
+    width: 720px;
+    height: 900px;
+
+    }
+
+
+.logo {
+        width: 25px;
+      height: 25px;
+      background: red;
+      transition: width 0.1s, height 0.1s;
+}
+.logo:hover {
+    width: 30px;
+    height: 30px;
+    ]}
